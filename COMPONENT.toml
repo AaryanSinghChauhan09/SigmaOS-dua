@@ -3,7 +3,7 @@ name = "SigmaOS-dua"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "dua component"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
